@@ -10,6 +10,7 @@ I chose React.js for my library and TypeIt - <a>https://www.typeitjs.com/</a> to
 
 🤔 - Ultimately, some functionality is lacking due to time constraints as well as my inexperience with React, but it has given me a much better view of how React as well as vanilla JS works.
 Also, I think my states may be in worse shape than 'the' States. 😅
+Annnnnnd, it isn't responsive, not in the slightest. View at widths below 1920px at your peril.
 
 Images are the property of their respective owners.
 Richard Roach 20XX
