@@ -1,0 +1,28 @@
+Hi there, thank you for your time and consideration.
+
+---JUSTIFICATION---
+
+I don't know how to host my web application, as it is in a new library that I am still learning.
+
+I have been previewing my work during development by using Visual Studio Code's terminal to start a live server.
+
+---HOW TO VIEW---
+
+The final file is 'index.html', located in the 'public' folder of this project file.
+
+Opening the 'tourism-nz' folder in an IDE and using the inbuilt Windows PowerShell command-line-interface (in VS Code, go to the top bar, click 'View' and select the 'Terminal' option, or press Ctrl+`)
+
+Using the command 'npm start' when viewing the 'index.html' file will host a live server with a browser showing the web application with functionality intact.
+I used VS Code so I suggest also using it also.
+
+Make sure to run it in full screen for maximum compatibility.
+
+
+--- TROUBLESHOOTING---
+
+The 'tourism-nz' folder (root folder) needs to be opened in VS Code for the terminal / CLI to have access to the React scripts stored in the 'node-modules' folder.
+If 'npm start' doesn't work, download and install Node.js and use the Node Package Manager (npm) to open the file with React functionality.
+
+
+Thanks,
+Richard Roach
