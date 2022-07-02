@@ -2,7 +2,7 @@
 Assignment work for Yoobee Colleges; first foray into React
 
 🔮 - The brief was to create a single-page application using the JavaScript library of our choice; as well as a third-party plugin.
-I chose React.js for my library and TypeIt - <a>https://www.typeitjs.com/</a> to extend the app aesthetically.
+I chose React.js - <a>https://reactjs.org/</a> for my library and TypeIt - <a>https://www.typeitjs.com/</a> to extend the app aesthetically.
 
 🏅 - The goal was to create a booking system allowing users to input travel details - start and end dates, number of people travelling - and receive accommodation options based off their input.
 
